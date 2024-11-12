@@ -1,5 +1,12 @@
+
+Computer Name: DESKTOP-F3U3864
+Date of Test: 2024-11-12 13:37:15
+Bubble Sort Time: 9.197798 seconds
+Quick Sort Time: 0.023824 seconds
+
 Computer Name: Surfi
 Date of Test: 2024-11-12 13:36:55
 Bubble Sort Time: 4.243290 seconds
 Quick Sort Time: 0.012150 seconds
+
 
